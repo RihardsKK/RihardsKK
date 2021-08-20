@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RihardsKK
-- 👀 I’m interested in it
+- 👀 I’m interested in IT 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me baltknight@gmail.com
