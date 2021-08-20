@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RihardsKK
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on git
-- 📫 How to reach me baltknight@gmail.com
+- 📫 How to reach me rihards.karklins2@gmail.com
 
 <!---
 RihardsKK/RihardsKK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
